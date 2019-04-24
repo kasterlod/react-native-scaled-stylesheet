@@ -1,0 +1,30 @@
+{
+  "name": "react-native-scaled-stylesheet",
+  "version": "1.0.0",
+  "description": "Scalable stylesheet wrapper with orientation support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasterlod/react-native-scaled-stylesheet.git"
+  },
+  "keywords": [
+    "react-native",
+    "stylesheet",
+    "orientation",
+    "landscape",
+    "portrait",
+    "scaled"
+  ],
+  "author": "Kacper Szeliga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasterlod/react-native-scaled-stylesheet/issues"
+  },
+  "homepage": "https://github.com/kasterlod/react-native-scaled-stylesheet#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
